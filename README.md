@@ -6,8 +6,8 @@
 
 ### Targets
 
-- [] - Refactoring functions and parameters to Classes and Methotds
+- [ ] - Refactoring functions and parameters to Classes and Methotds
 
-### How can see the result of this code?
+### How can see the result of this code? Just click bollow and open console of Browers
 
-[Click here!]()
+[Click here!](https://luanperosa.github.io/origamid-countdown/)
