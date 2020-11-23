@@ -1,1 +1,1 @@
-# origamd-countdown
+# origamid-countdown
