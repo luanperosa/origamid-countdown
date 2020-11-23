@@ -13,6 +13,7 @@
 
 [Click here!](https://luanperosa.github.io/origamid-countdown/)
 
+___
 
 Firstly, it follows a common javascript function called Button using a prototype, this function receives parameters that are used in the prototype to create the method.
 
