@@ -51,6 +51,9 @@ Now we can see this function refactored for class
 As we can see, the function becames atributes in constructor and prototype becames method.
 
 To access the constructor we need instantiate a object of class, after instantiate it is possible to access the methods using ```.element()```, instantiate a object of class you need use ```new```, bellow we will see an example. Attencion that we need to call the method using (). 
+
 It is possible declare parameters in method, but the betther practice is not declare anyparameters, it's betther declare your atributes in constructor to uses in method.
+
 Don't forget uses ```this```, this is reference of object class, actualy this is return by default in constructor. In method you need to uses this if you need to call the atributes of this class. 
+
 The constructor always is called when you instantiate a object of class, therefore you can call methods in constructor that you want execute by default in class, but this is not recommended, we will see another example to resolve this problem. 
